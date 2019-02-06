@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1549483847 source:c:\users\joffrey\documents\jeudelavie_v1\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+
+1549483863 c:\users\joffrey\documents\jeudelavie_v1\affichage.h
+	"main.h"
+
+1549483712 c:\users\joffrey\documents\jeudelavie_v1\main.h
+
+1549484945 source:c:\users\joffrey\documents\jeudelavie_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1549484027 source:c:\users\joffrey\documents\jeudelavie_v1\matrice.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"matrice.h"
+
+1549483986 c:\users\joffrey\documents\jeudelavie_v1\matrice.h
+	"main.h"
+
+1549485190 source:c:\users\joffrey\documents\jeudelavie_v1\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	"fichier.h"
+
+1549484820 c:\users\joffrey\documents\jeudelavie_v1\fichier.h
+	"main.h"
+
